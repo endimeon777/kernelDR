@@ -8,7 +8,7 @@ package com.varios;
 import Jama.*;
 import javax.swing.JTable;
 import javax.swing.table.AbstractTableModel;
-
+  
 /**
  *
  * @author MacArthur
